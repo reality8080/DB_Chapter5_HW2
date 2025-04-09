@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.9">
   <diagram name="Page-1" id="JwFWjlHa0yYjuDXYSrsF">
-    <mxGraphModel>
+    <mxGraphModel dx="1540" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jGa53JZyA5L5RdkzGYDj-1" value="Xe" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="150" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jGa53JZyA5L5RdkzGYDj-2" value="Tài Xế" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jGa53JZyA5L5RdkzGYDj-3" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="500" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jGa53JZyA5L5RdkzGYDj-5" value="CHUYẾN ĐI" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jGa53JZyA5L5RdkzGYDj-6" value="Phân công" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
