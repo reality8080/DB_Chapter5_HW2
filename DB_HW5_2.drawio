@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.9">
   <diagram name="Page-1" id="JwFWjlHa0yYjuDXYSrsF">
-    <mxGraphModel dx="1836" dy="1857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="1724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,7 +216,7 @@
         <mxCell id="jGa53JZyA5L5RdkzGYDj-71" value="Ghi Chú" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="880" y="16" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jGa53JZyA5L5RdkzGYDj-82" value="Phân Công" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="jGa53JZyA5L5RdkzGYDj-82" value="Được Phân Công" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="100" y="-150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jGa53JZyA5L5RdkzGYDj-83" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jGa53JZyA5L5RdkzGYDj-1" target="jGa53JZyA5L5RdkzGYDj-82">
@@ -234,11 +234,29 @@
             <mxPoint x="350" y="-40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jGa53JZyA5L5RdkzGYDj-86" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="jGa53JZyA5L5RdkzGYDj-86" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="-152" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jGa53JZyA5L5RdkzGYDj-87" value="Được Phân Công" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="jGa53JZyA5L5RdkzGYDj-87" value="Phân Công" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="260" y="16" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jGa53JZyA5L5RdkzGYDj-88" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jGa53JZyA5L5RdkzGYDj-62" target="jGa53JZyA5L5RdkzGYDj-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="110" as="sourcePoint" />
+            <mxPoint x="350" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jGa53JZyA5L5RdkzGYDj-89" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="-102" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jGa53JZyA5L5RdkzGYDj-90" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jGa53JZyA5L5RdkzGYDj-87" target="jGa53JZyA5L5RdkzGYDj-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="110" as="sourcePoint" />
+            <mxPoint x="350" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jGa53JZyA5L5RdkzGYDj-91" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="170" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
